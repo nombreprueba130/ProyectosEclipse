@@ -1,0 +1,10 @@
+package pruebaprueba;
+import java.util.Arrays;
+public class main {
+Scanner sc=new Scanner(System.in);
+	public static void main(String[] args) {
+		int num=3;
+		double num1=num;
+	}
+
+}

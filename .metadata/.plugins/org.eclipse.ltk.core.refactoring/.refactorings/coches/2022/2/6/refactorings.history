@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;i&apos; in &apos;coches.Taller.ordenar(...)&apos; to &apos;hDerecha&apos;&#x0D;&#x0A;- Original project: &apos;coches&apos;&#x0D;&#x0A;- Original element: &apos;coches.Taller.ordenar(Coche[]).i&apos;&#x0D;&#x0A;- Renamed element: &apos;i&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;i&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;coches{Taller.java[Taller~ordenar~\[QCoche;@i!374!382!378!378!I!0!false" name="hDerecha" references="true" stamp="1644400531093" version="1.0"/>
+</session>

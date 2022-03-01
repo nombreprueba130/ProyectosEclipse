@@ -1,0 +1,11 @@
+package Fechas;
+public class PruebaFecha {
+
+	public static void main(String[] args) {
+		Fecha cumple = new Fecha(29,2,1003);
+		System.out.println(cumple.fechaCorrecta());
+		System.out.println(cumple);
+
+	}
+
+}

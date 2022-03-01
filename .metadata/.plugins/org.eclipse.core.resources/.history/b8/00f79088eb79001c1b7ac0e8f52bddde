@@ -1,0 +1,29 @@
+package Huevos;
+import Huevos.Clara;
+import Huevos.Yema;
+public class Huevo {
+	private String nombre;
+	private String color;
+	private String estado;
+	public Yema yema1;
+	public Clara clara1;
+	public Huevo() {
+		this.color="Blanco";
+		this.estado="Bien";
+		yema1=new Yema();
+		clara1=new Clara();
+	}
+	public Huevo(char nombre,String colorHuevo, String estadoHuevo,String tamañoYema,String estadoYema) {
+		nombre=[]
+		this.color=colorHuevo;
+		this.estado=estadoHuevo;
+		yema1=new Yema(tamañoYema, estadoYema);
+		clara1=new Clara();
+	}
+	
+
+	public String toString() {
+		String cadena="\nHuevo.color= "+this.color+"Huevo.estado= "+this.estado;
+		return cadena;
+	}
+}

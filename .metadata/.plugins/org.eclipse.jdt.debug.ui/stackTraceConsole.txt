@@ -1,0 +1,5 @@
+public Empleado(int sueldo) {
+		this.nombre=nombre;
+		this.Salario=100.00;	
+		antiguedad=0;
+	}	

@@ -1,0 +1,10 @@
+package Fechas;
+public class PruebaFecha {
+
+	public static void main(String[] args) {
+		Fecha cumple = new Fecha();
+		System.out.println(cumple);
+
+	}
+
+}

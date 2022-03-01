@@ -1,0 +1,12 @@
+package Fechas;
+public class PruebaFecha {
+
+	public static void main(String[] args) {
+		Fecha cumple = new Fecha(29,2,2004);
+		cumple.diaSiguiente();
+		cumple.fechaCorrecta();
+
+
+	}
+
+}

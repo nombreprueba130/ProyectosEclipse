@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;hDerecha&apos; in &apos;Fechas.PruebaFecha.cualEsMayor(...)&apos; to &apos;d&apos;&#x0D;&#x0A;- Original project: &apos;Fecha&apos;&#x0D;&#x0A;- Original element: &apos;Fechas.PruebaFecha.cualEsMayor(Fecha[]).hDerecha&apos;&#x0D;&#x0A;- Renamed element: &apos;hDerecha&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;hDerecha&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Fechas{PruebaFecha.java[PruebaFecha~cualEsMayor~\[QFecha;@hDerecha!1267!1282!1271!1278!I!0!false" name="d" references="true" stamp="1644404096738" version="1.0"/>
+</session>

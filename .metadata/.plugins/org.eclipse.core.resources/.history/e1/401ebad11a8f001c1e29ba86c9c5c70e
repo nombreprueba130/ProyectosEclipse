@@ -1,0 +1,12 @@
+package Ejercicio;
+
+public class Persona {
+	protected String nombre;
+	protected int edad;
+	protected int estatura;
+	
+	public String mostrarDatos() {
+		String cadena ="nombre: "+this.nombre+"edad: "+this.edad+"estatura: "+estatura;
+		return cadena;
+	}
+}
